@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# This contains LSTM model and useful utilities.
+# author: Zhexin Liu
 import pandas as pd; import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
