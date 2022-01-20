@@ -5,3 +5,5 @@ Using this dataset, we would like to build a predictive model that is able to pr
 
 ![Alt text](RM.photoes/table1.png?raw=true "Table1") 
 ![Alt text](RM.photoes/table2.png?raw=true "Table2")
+
+![Alt_text](RM.photoes/figure1.png?raw=true "figure1") 
