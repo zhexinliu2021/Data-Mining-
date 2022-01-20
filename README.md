@@ -1,7 +1,7 @@
 ## Notation
-* `LSTM_final.ipynb` contains data preprocessing, feature selection, LSTM model implementation and statistical analysis of LSTM model and benchmark model.
+* `LSTM_final.ipynb` contains data preprocessing, feature selection, LSTM model implementation and statistical analysis between LSTM model and benchmark model.
 * `tool.py` useful utility function library.
-* For detailed information about temporal model(LSTM), such as preprocessing, training and validation schema, and statistical analysis. please check `report/DM_assignment_1.pdf`.
+* For detailed information about temporal model(LSTM), such as preprocessing, training and validation schema, and statistical analysis. please check `report/DM_assignment_1.pdf`, 3.2-4.2.
 
 ##  DATASET AND PROBLEM
 
